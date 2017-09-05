@@ -9,7 +9,10 @@ You can modify and edit these themes using our free online [email editor](https:
 ## Templates
 
 #### 1. Christmas
-![Christmas Theme](https://api.unroll.io/v1/designer/10/templates/132/thumbnail-url)
+![Christmas Template](https://api.unroll.io/v1/designer/10/templates/132/thumbnail-url)
+
+#### 2. Webinar
+![Webinar Template](https://api.unroll.io/v1/designer/10/templates/147/thumbnail-url)
 
 
 ## License
